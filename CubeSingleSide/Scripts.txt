@@ -1,0 +1,4 @@
+///launch fcServer connected to 3 fadecandies
+
+
+../fadecandy-package-02/bin/fcserver.exe config/multi-3.json
