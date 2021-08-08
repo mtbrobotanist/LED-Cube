@@ -1,4 +1,6 @@
 ///launch fcServer connected to 3 fadecandies
 
+// initialize fadecandy submodule (run just once after clone)
+git submodule init --recursive
 
-../fadecandy-package-02/bin/fcserver.exe config/multi-3.json
+../fadecandy/bin/fcserver.exe config/multi-3.json
